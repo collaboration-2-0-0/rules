@@ -1,2 +1,3 @@
-# rules
-community rules
+# Community rules
+
+Repo for community rules
